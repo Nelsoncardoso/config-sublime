@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"CodeIgniter 2 ModelController",
+		"CodeIgniter Snippets",
+		"CodeIgniter Utilities",
+		"Emmet",
+		"JavaScript Completions",
+		"Material Theme",
+		"Package Control",
+		"SFTP"
+	]
+}

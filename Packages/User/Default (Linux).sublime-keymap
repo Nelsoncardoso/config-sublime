@@ -1,0 +1,6 @@
+[
+	{ "keys": ["ctrl+shift+a"], "command": "toggle_side_bar" },
+{ "keys": ["ctrl+shift+c"], "command": "toggle_comment", "args": { "block": false } },
+{ "keys": ["f12"], "command": "reindent"},
+{ "keys": ["ctrl+alt+c"], "command": "color_picker", "context": [{ "key": "color_highlighter.color_picker" }]},
+]
